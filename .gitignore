@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+
+*.dll
+*.xlsx
+*.ipynb
+
+!학교알리미_2022_중고교_학생수.xlsx
+!학교알리미_신입생조회.ipynb
